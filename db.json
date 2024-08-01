@@ -1,0 +1,112 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Men pure black Shirt ",
+      "brand": "PETER ENGLAND ",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shirt/u/h/0/-original-imagg7rhzn4fnurt.jpeg?q=70",
+      "currentPrice": "1000",
+      "standardPrice": "4000",
+      "discount": "75"
+    },
+    {
+      "id": "2",
+      "brand": "Allen Solly",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shirt/p/e/i/-original-imagzrp8q7dbtyep.jpeg?q=70",
+      "currentPrice": "1000",
+      "standardPrice": "2000",
+      "discount": "50",
+      "name": "Men pure white Shirt "
+    },
+    {
+      "id": "3",
+      "name": "Men Slim Blue Jeans",
+      "brand": "American Eagle",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/jean/z/j/q/31-wee0116571841-american-eagle-original-imagwymrz9hghs7b.jpeg?q=70",
+      "currentPrice": "2000",
+      "standardPrice": "8000",
+      "discount": "75"
+    },
+    {
+      "id": "4",
+      "name": "Men Regular Mid Rise Blue Jeans",
+      "brand": "U.S. Polo Assn. Denim Co. ",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/jean/c/f/l/38-udjeno1196-u-s-polo-assn-denim-co-original-imagu5jggxxamzmx.jpeg?q=70",
+      "currentPrice": "2000",
+      "standardPrice": "10000",
+      "discount": "80"
+    },
+    {
+      "id": "5",
+      "name": "Men Black T-Shirt",
+      "brand": "Allen Solly ",
+      "image": "https://rukminim2.flixcart.com/image/612/612/l4vnbm80/t-shirt/i/j/q/m-askporgfj72665-new-allen-solly-original-imagfzk8vjxgurcj.jpeg?q=70",
+      "currentPrice": "1000",
+      "standardPrice": "10000",
+      "discount": "90"
+    },
+    {
+      "id": "6",
+      "name": "Men pure black Shirt ",
+      "brand": "PETER ENGLAND ",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shirt/u/h/0/-original-imagg7rhzn4fnurt.jpeg?q=70",
+      "currentPrice": "1000",
+      "standardPrice": "4000",
+      "discount": "75"
+    },
+    {
+      "id": "7",
+      "brand": "Allen Solly",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shirt/p/e/i/-original-imagzrp8q7dbtyep.jpeg?q=70",
+      "currentPrice": "1000",
+      "standardPrice": "2000",
+      "discount": "50",
+      "name": "Men pure white Shirt "
+    },
+    {
+      "id": "8",
+      "name": "Men Slim Blue Jeans",
+      "brand": "American Eagle",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/jean/z/j/q/31-wee0116571841-american-eagle-original-imagwymrz9hghs7b.jpeg?q=70",
+      "currentPrice": "2000",
+      "standardPrice": "8000",
+      "discount": "75"
+    },
+    {
+      "id": "9",
+      "name": "Men Regular Mid Rise Blue Jeans",
+      "brand": "U.S. Polo Assn. Denim Co. ",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/jean/c/f/l/38-udjeno1196-u-s-polo-assn-denim-co-original-imagu5jggxxamzmx.jpeg?q=70",
+      "currentPrice": "2500",
+      "standardPrice": "10000",
+      "discount": "75"
+    },
+    {
+      "id": "10",
+      "name": "Men Solid Polo Neck Cotton Blend Black T-Shirt",
+      "brand": "Allen Solly ",
+      "image": "https://rukminim2.flixcart.com/image/612/612/l4vnbm80/t-shirt/i/j/q/m-askporgfj72665-new-allen-solly-original-imagfzk8vjxgurcj.jpeg?q=70",
+      "currentPrice": "1000",
+      "standardPrice": "10000",
+      "discount": "90"
+    },
+    {
+      "id": "11",
+      "name": "Power of Your Subconscious Minds",
+      "brand": "(English, Paperback, Murphy Joseph)",
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/book/2/w/s/power-of-your-subconscious-mind-original-imahfhbcugtrz5xh.jpeg?q=70",
+      "currentPrice": "1440",
+      "standardPrice": "1950",
+      "discount": "26"
+    },
+    {
+      "id": "1feb",
+      "name": "asd",
+      "brand": "sf",
+      "image": "sdfgn",
+      "currentPrice": "05",
+      "standardPrice": "522",
+      "discount": "25"
+    }
+  ]
+}
